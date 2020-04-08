@@ -1,0 +1,2 @@
+# echo 'something' >> .gitignore
+.idea/
